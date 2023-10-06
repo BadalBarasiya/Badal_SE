@@ -1,0 +1,53 @@
+What is Software?What is software engineering?
+In a computer system, the software is basically a set of instructions or commands that tell a computer what to do.
+In other words, the software is a computer program that provides a set of instructions to execute a user's commands 
+and tell the computer what to do.Software Engineering is the process of designing, developing, testing, and maintaining software. 
+
+
+Explain types of software?
+     Application software
+Application software. The most common type of software, application software is a computer software package that performs
+a specific function for a user, or in some cases, for another application.
+     System Software
+System software. These software programs are designed to run a computer's application programs and hardware.
+System software coordinates the activities and functions of the hardware and software.
+     Driver Software
+Driver software. Also known as device drivers, this software is often considered a type of system software. 
+Device drivers control the devices and peripheralsconnected to a computer, enabling them to perform their specific tasks. 
+    Programming Software
+Programming software. Computer programmers use programming software to write code. Programming software and programming tools enable developers to
+develop, write, test and debug other software programs.
+
+What is SDLC? Explain each phase of sdlc?
+SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible. 
+SDLC provides a well-structured flow of phases that help an organization to quickly producehigh-quality software which is well-tested 
+and ready for production use.
+The SDLC has five phases: inception, design, implementation, maintenance, and audit or disposal, which includes an assessment of the risk management plan.
+
+The phase of inception includes the planning and requirement analysis, and the creation of a rough draft of the system
+including identification of the possible risks. This is also the first step for risk management where project managers
+identify and prioritize software development risks.
+The design and prototyping phase of SDLC is when the system designers take into account possible risks,
+ so the list of potential risks the system has to deal with is formed at this stage.
+The implementation of the software development phase includes the system configuration and creation of 
+functional software, testing, and verification. Here the system is tested against the risks identified in the previous two phases.
+The maintenance phase includes debugging and updating if new risks are identified they have to be included in the system modules.
+The audit phase includes the risk management plan assessment and any necessary refinements.
+Any substantial changes in risk management are then incorporated into the updates based on system audit results.
+
+
+What is DFD? Create a dfd diagram on flowchart
+DFD is the abbreviation for Data Flow Diagram. The flow of data of a system or a process is represented by DFD.
+It also gives insight into the inputs and outputs of each entity and the process itself. DFD does not have control 
+flow and no loops or decision rules are present.
+
+ What is flowchart? Create a flowchart to make addition of two numbers
+A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple
+fields to document, study, plan,improve and communicate often complex processes in clear, easy-to-understand diagrams.
+Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other
+shapes to define the type of step, along with connecting arrows to define flow and sequence.
+
+ What is Use case Diagram? Create a use-case on bill payment on paytm.
+Use-case diagrams describe the high-level functions and scope of a system. These diagrams also identify the interactions between the system and its actors.
+The use cases and actors in use-case diagrams describe what the systemdoes and how the actors use it, but not how the system operates internally.
+ 
